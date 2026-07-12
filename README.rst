@@ -2,6 +2,8 @@ i have made 2 modofications
 1 edit a py file to get gif import working how python works now
 2 defalt imagemagic and gifsicle paths are now labled how they work in linux mint.
 
+ignore the linux mint part and enjoy the addon
+
 for exports
 https://www.youtube.com/watch?v=1hgGdppoic4
 and
