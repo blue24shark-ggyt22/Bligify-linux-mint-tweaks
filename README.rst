@@ -1,5 +1,5 @@
 i have made 2 modofications
-1 edit a py file to get gif import working how python works now
+1 edit a py file to get gif import and fps adjust working how python works now
 2 defalt imagemagic and gifsicle paths are now labled how they work in linux mint.
 
 
