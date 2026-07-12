@@ -89,8 +89,8 @@ def make_absolute_magick_path(context):
 
 
 def initprop():
-    default_gifsicle_path = ""
-    default_magick_path = ""
+    default_gifsicle_path = "/bin/gifsicle"
+    default_magick_path = "/usr/bin/convert"
 
     # OS X
     if sys.platform == "darwin":
